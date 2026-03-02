@@ -1,4 +1,6 @@
 # The Service Stewardship Framework
+**Version:** v1.0  
+**Last Updated:** March 2026  
 
 A 12-domain operating model for intentional technology service ownership.
 
@@ -6,29 +8,42 @@ A 12-domain operating model for intentional technology service ownership.
 
 ## Overview
 
-The Service Stewardship Framework defines what it truly means to own a technology service. In many organizations, service ownership is implied but rarely defined. Engineering managers are expected to “own the service,” yet ownership often defaults to uptime, incident response, and backlog management. This framework expands that definition. It establishes a structured model for stewarding services across strategy, delivery, reliability, architecture, security, finance, and organizational capability. The objective is practical leadership, not theory.
+The Service Stewardship Framework defines what it truly means to own and evolve a technology service responsibly.
+
+In many organizations, service ownership is implied but rarely defined. Engineering managers are expected to “own the service,” yet ownership often defaults to uptime, incident response, and backlog management.
+
+This framework expands that definition.
+
+It establishes a structured, multidimensional model for stewarding services across strategy, delivery, reliability, architecture, security, finance, and organizational capability.
+
+The goal is practical leadership, not theory.
 
 ---
 
-## Why This Exists
+## Start Here
 
-Technology services rarely fail suddenly.
+If you are new to the framework, begin in this order:
 
-They fail when:
+1. [Introduction](docs/introduction.md)  
+   Understand the leadership philosophy and intent behind the model.
 
-- Costs drift without visibility  
-- Architectural complexity compounds silently  
-- Modernization is deferred indefinitely  
-- Roadmaps disconnect from business value  
-- Ownership becomes reactive rather than intentional  
+2. [Framework Definition](framework/service-stewardship-framework.md)  
+   Review the 12 domains and their core responsibilities.
 
-Strong service leadership requires multidimensional stewardship. This framework provides that structure.
+3. [Maturity Model](maturity-model/README.md)  
+   Understand the four-level progression model.
+
+4. [Assessment Questionnaire](docs/assessment/service-maturity-assessment.md)  
+   Establish your baseline maturity score.
+
+5. [How to Use Guide](docs/how-to-use.md)  
+   Learn how to operationalize the framework in practice.
 
 ---
 
 ## The 12 Domains of Service Stewardship
 
-The model organizes service ownership into twelve domains:
+The framework organizes service ownership into twelve interconnected domains:
 
 1. Strategic Stewardship  
 2. Organizational Capability  
@@ -44,77 +59,82 @@ The model organizes service ownership into twelve domains:
 12. Portfolio Alignment  
 
 Each domain defines:
+
 - Core responsibilities  
-- Required artifacts  
 - Key metrics  
-- Governance cadence  
+- Governance expectations  
+- Required artifacts  
 - Maturity progression  
 
-Together, they create a holistic and balanced operating model for durable service ownership.
+Together, they form a complete operating model for durable service ownership.
+
+See full definitions here:
+
+[Framework Definition](framework/service-stewardship-framework.md)
 
 ---
 
 ## Maturity Model
 
-The framework includes a four-level maturity model:
+The framework embeds a four-level maturity progression:
 
-### Level 1 – Reactive  
-Informal processes. Risk is discovered through failure.
+- **Level 1 – Reactive**
+- **Level 2 – Managed**
+- **Level 3 – Optimized**
+- **Level 4 – Proactive**
 
-### Level 2 – Managed  
-Documented processes. Basic governance and measurement in place.
+Progression is evidence-based and staged.  
 
-### Level 3 – Optimized  
-Metrics-driven decisions. Proactive risk management.
+The maturity model allows leaders to:
 
-### Level 4 – Proactive  
-Predictive posture. Continuous improvement embedded.
+- Diagnose current state honestly  
+- Identify structural gaps  
+- Prioritize investment intentionally  
+- Track measurable improvement over time  
 
-This allows leaders to assess current state, identify structural gaps, and prioritize improvements intentionally.
-
----
-
-## Repository Contents
-
-This repository includes:
-
-- The full framework definition  
-- Domain-specific playbooks  
-- Assessment questionnaires  
-- Deep-dive domain modules  
-- Scoring guidance  
+Full details:
+[Maturity Model Overview](maturity-model/README.md)
 
 ---
 
-## How to Use This Framework
+## Assessment & Domain Modules
 
-This framework can be used to:
+The framework includes structured instruments for evaluation and improvement.
 
-- Evaluate service maturity  
-- Guide roadmap investment decisions  
-- Structure leadership conversations  
-- Clarify ownership expectations  
-- Identify systemic risk  
-- Improve cross-functional alignment  
+### Assessment
 
-It is designed to evolve with the services it governs.
+Use the consolidated questionnaire to baseline maturity across all domains:
+
+[Service Maturity Assessment](assessment/service-maturity-assessment.md)
+
+### Domain Modules
+
+Each domain includes a deep-dive operational guide that provides:
+
+- Detailed expectations  
+- Governance cadence  
+- Implementation guidance  
+- Evidence requirements  
+- Improvement pathways  
+
+Explore domain modules in:
+
+`domain-modules/`
 
 ---
 
-## Intended Audience
+## How to Operationalize the Framework
 
-- Engineering Managers  
-- Platform Engineering Leaders  
-- Site Reliability Engineering Leaders  
-- Service Owners  
-- Technology Executives  
+This framework is designed to be applied, not archived.
 
-Particularly those responsible for long-lived, business-critical services where reliability, cost discipline, modernization, and organizational health must coexist.
+Use it to:
 
----
+- Conduct structured service reviews  
+- Identify systemic risk exposure  
+- Align roadmap investment to value  
+- Improve cross-functional governance  
+- Strengthen organizational capability  
 
-## Guiding Principle
+Step-by-step guidance is available here:
 
-Services do not drift into excellence.
-They drift into entropy.
-Intentional stewardship is what prevents that.
+🛠 [How to Use the Framework](docs/how-to-use.md)
