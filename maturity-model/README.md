@@ -32,7 +32,7 @@ Each domain within the framework progresses through four levels:
 
 ---
 
-### Level 1 — Reactive
+### Level 1: Reactive
 
 - Processes are informal or undocumented.
 - Risk is discovered through failure.
@@ -46,7 +46,7 @@ Characteristics:
 
 ---
 
-### Level 2 — Managed
+### Level 2: Managed
 
 - Core processes are documented.
 - Basic governance cadence exists.
@@ -60,7 +60,7 @@ Characteristics:
 
 ---
 
-### Level 3 — Optimized
+### Level 3: Optimized
 
 - Metrics drive decision-making.
 - Risk is proactively monitored.
@@ -74,7 +74,7 @@ Characteristics:
 
 ---
 
-### Level 4 — Proactive
+### Level 4: Proactive
 
 - Predictive signals inform strategy.
 - Risk is addressed before failure.
@@ -168,12 +168,4 @@ Progression must be sustainable.
 
 ## The Objective
 
-The goal of the maturity model is not perfection.
-
-It is predictability, durability, and intentional stewardship.
-
-Services do not drift upward in maturity.
-
-They drift downward without discipline.
-
-This model exists to prevent that.
+The goal of the maturity model is not perfection. It is predictability, durability, and intentional stewardship. Services do not drift upward in maturity. They drift downward without discipline. This model exists to prevent that.
