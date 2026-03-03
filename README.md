@@ -1,11 +1,16 @@
 # The Service Stewardship Framework
+
+![Service Stewardship Framework](docs/assets/framework-diagram.png)
 **Version:** v1.0  
 **Last Updated:** March 2026  
 
-![Service Stewardship Framework](docs/assets/framework-diagram.png)
-A 12-domain operating model for intentional technology service ownership.
 
 ---
+## Who This Is For
+
+- Engineering Managers responsible for long-lived services
+- Platform and SRE leaders
+- Technology executives governing reliability-critical systems
 
 ## Overview
 
@@ -18,6 +23,14 @@ This framework expands that definition.
 It establishes a structured, multidimensional model for stewarding services across strategy, delivery, reliability, architecture, security, finance, and organizational capability.
 
 The goal is practical leadership, not theory.
+
+## What Makes This Different
+
+This framework is:
+- Multidimensional, not uptime-focused
+- Governance-oriented, not documentation-driven
+- Evidence-based, not aspirational
+- Designed for long-lived enterprise services
 
 ---
 
@@ -34,7 +47,7 @@ If you are new to the framework, begin in this order:
 3. [Maturity Model](maturity-model/README.md)  
    Understand the four-level progression model.
 
-4. [Assessment Questionnaire](docs/assessment/service-maturity-assessment.md)  
+4. [Assessment Questionnaire](assessments/service-maturity-assessment.md)  
    Establish your baseline maturity score.
 
 5. [How to Use Guide](docs/how-to-use.md)  
@@ -69,8 +82,7 @@ Each domain defines:
 
 Together, they form a complete operating model for durable service ownership.
 
-See full definitions here:
-
+See full definitions here:\
 [Framework Definition](docs/framework.md)
 
 ---
@@ -79,10 +91,10 @@ See full definitions here:
 
 The framework embeds a four-level maturity progression:
 
-- **Level 1 – Reactive**
-- **Level 2 – Managed**
-- **Level 3 – Optimized**
-- **Level 4 – Proactive**
+- **Level 1: Reactive**
+- **Level 2: Managed**
+- **Level 3: Optimized**
+- **Level 4: Proactive**
 
 Progression is evidence-based and staged.  
 
@@ -93,7 +105,7 @@ The maturity model allows leaders to:
 - Prioritize investment intentionally  
 - Track measurable improvement over time  
 
-Full details:
+See Full details here:\
 [Maturity Model Overview](maturity-model/README.md)
 
 ---
@@ -106,7 +118,7 @@ The framework includes structured instruments for evaluation and improvement.
 
 Use the consolidated questionnaire to baseline maturity across all domains:
 
-[Service Maturity Assessment](assessment/service-maturity-assessment.md)
+[Service Maturity Assessment](assessments/service-maturity-assessment.md)
 
 ### Domain Modules
 
@@ -138,4 +150,4 @@ Use it to:
 
 Step-by-step guidance is available here:
 
-🛠 [How to Use the Framework](docs/how-to-use.md)
+[How to Use the Framework](docs/how-to-use.md)

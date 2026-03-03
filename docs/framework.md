@@ -42,8 +42,8 @@ The Service Stewardship Framework consists of four integrated components:
 
 See:
 - [Maturity Model Overview](../maturity-model/README.md)
-- [Assessment Questionnaire](../questionnaires/service-maturity-assessment.md)
-- [How to Use Guide](../how-to-use.md)
+- [Assessment Questionnaire](../assessments/service-maturity-assessment.md)
+- [How to Use Guide](../docs/how-to-use.md)
 
 ---
 
@@ -70,8 +70,8 @@ measurable value, and evolves intentionally across its lifecycle.
 -   Cost-to-value ratio
 -   \% modernization vs maintenance spend
 
-[Strategic Stewardship Maturity Module](../maturity-model/01-strategic-stewardship-module.md)\
-[Strategic Stewardship Operational Guide](../playbooks/01-strategic-stewardship-playbook.md)
+[Strategic Stewardship Maturity Module](../modules/01-strategic-stewardship.md)\
+[Strategic Stewardship Operational Guide](../playbooks/01-strategic-stewardship.md)
 
 ------------------------------------------------------------------------
 
