@@ -2,6 +2,7 @@
 **Version:** v1.0  
 **Last Updated:** March 2026  
 
+![Service Stewardship Framework](docs/assets/framework-diagram.png)
 A 12-domain operating model for intentional technology service ownership.
 
 ---
@@ -27,7 +28,7 @@ If you are new to the framework, begin in this order:
 1. [Introduction](docs/introduction.md)  
    Understand the leadership philosophy and intent behind the model.
 
-2. [Framework Definition](framework/service-stewardship-framework.md)  
+2. [Framework Definition](docs/framework.md)  
    Review the 12 domains and their core responsibilities.
 
 3. [Maturity Model](maturity-model/README.md)  
@@ -70,7 +71,7 @@ Together, they form a complete operating model for durable service ownership.
 
 See full definitions here:
 
-[Framework Definition](framework/service-stewardship-framework.md)
+[Framework Definition](docs/framework.md)
 
 ---
 
