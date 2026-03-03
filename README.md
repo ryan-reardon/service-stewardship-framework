@@ -4,7 +4,6 @@
 **Version:** v1.0  
 **Last Updated:** March 2026  
 
-A 12-domain operating model for intentional technology service ownership.
 
 ---
 ## Who This Is For

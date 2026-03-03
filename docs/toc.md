@@ -96,9 +96,3 @@ Execution-oriented guidance for applying improvements within each domain.
 6. Apply corresponding **Playbooks** to drive improvements  
 7. Reassess quarterly and track maturity progression  
 
----
-
-**Guiding Principle**  
-Services do not drift into excellence.  
-They drift into entropy.  
-Intentional stewardship prevents that.
