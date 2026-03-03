@@ -119,7 +119,7 @@ The framework includes structured instruments for evaluation and improvement.
 
 Use the consolidated questionnaire to baseline maturity across all domains:
 
-[Service Maturity Assessment](assessment/service-maturity-assessment.md)
+[Service Maturity Assessment](assessments/service-maturity-assessment.md)
 
 ### Domain Modules
 
