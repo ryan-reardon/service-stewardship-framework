@@ -1,5 +1,5 @@
 # Enterprise Technology Service Operating Framework
-**Version:** v1.0  
+**Version:** v1.0.1  
 **Last Updated:** March 2026  
 
 This framework defines the capabilities required for a technology
