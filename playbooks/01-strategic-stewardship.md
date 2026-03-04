@@ -102,18 +102,18 @@ relevance of service - Approve major investment or sunset decisions
 
 ## 8. Maturity Advancement Roadmap
 
-Level 1 → Reactive: - Identify named service owner - Create documented
+Level 1: Reactive - Identify named service owner - Create documented
 12-month roadmap - Document primary customers and use cases
 
-Level 2 → Managed: - Quantify initiative-level business outcomes -
+Level 2: Managed - Quantify initiative-level business outcomes -
 Introduce lifecycle stage classification - Track adoption and
 satisfaction trends - Establish modernization allocation rule
 
-Level 3 → Optimized: - Implement scenario-based investment modeling -
+Level 3: Optimized - Implement scenario-based investment modeling -
 Formalize capacity allocation model - Publish quarterly strategic review
 summary - Track cost-to-value ratio trends
 
-Level 4 → Predictive & Autonomous: - Integrate demand forecasting into
+Level 4: Predictive & Autonomous - Integrate demand forecasting into
 roadmap planning - Automate strategic metric dashboards - Establish
 early-warning indicators for lifecycle transitions
 

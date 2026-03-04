@@ -86,7 +86,7 @@ Strategic Stewardship operates on a defined cadence.
 - Challenge continued relevance of the service
 - Approve major investment, repositioning, or sunset decisions
 
-Governance without cadence becomes symbolic.
+Governance requires a defined cadence to be effective.
 
 ---
 
@@ -161,24 +161,24 @@ Strategic erosion is gradual and often invisible until impact accumulates.
 
 Strategic Stewardship evolves through staged progression:
 
-**Level 1 — Reactive**
+**Level 1: Reactive**
 - Named service owner identified
 - 12-month roadmap documented
 - Primary customers and use cases defined
 
-**Level 2 — Managed**
+**Level 2: Managed**
 - Initiative-level outcomes quantified
 - Lifecycle stage classification introduced
 - Adoption and satisfaction trends tracked
 - Modernization allocation rule established
 
-**Level 3 — Optimized**
+**Level 3: Optimized**
 - Scenario-based investment modeling implemented
 - Capacity allocation model formalized
 - Quarterly strategic review summary published
 - Cost-to-value ratio trends tracked
 
-**Level 4 — Predictive**
+**Level 4: Predictive**
 - Demand forecasting integrated into roadmap planning
 - Strategic dashboards automated
 - Early-warning indicators for lifecycle transitions established
