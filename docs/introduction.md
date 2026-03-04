@@ -1,6 +1,6 @@
 # Introduction
 
-## Enterprise Technology Service Operating Framework
+## Enterprise Technology Service Stewardship Framework
 
 Technology services are no longer background infrastructure. They are the operational backbone of the enterprise and the vehicles through which strategy becomes reality. Every customer interaction, financial transaction, operational workflow, and strategic initiative ultimately depends on services that must be reliable, secure, adaptable, and economically sound.
 
@@ -14,7 +14,7 @@ As organizations grow, complexity compounds. Systems interconnect. Costs scale. 
 
 Strong service leadership changes that trajectory.
 
-This Service Operating Framework establishes a comprehensive model for what it means to truly own a technology service — not only from a technical standpoint, but from a strategic, financial, operational, and organizational perspective.
+This Service Stewardship Framework establishes a comprehensive model for what it means to truly own a technology service — not only from a technical standpoint, but from a strategic, financial, operational, and organizational perspective.
 
 It defines ownership as stewardship.
 
