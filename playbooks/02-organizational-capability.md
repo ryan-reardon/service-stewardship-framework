@@ -148,22 +148,25 @@ growth plans, retention risks)
 
 ## 8. Maturity Advancement Roadmap
 
-Level 1 → Reactive: - Establish team charter and ownership boundaries -
-Document on-call model and critical responsibilities - Create initial
-skills inventory and identify gaps
+Level 1 → Reactive: 
+- Establish team charter and ownership boundaries 
+- Document on-call model and critical responsibilities 
+- Create initial skills inventory and identify gaps
 
-Level 2 → Managed: - Implement role expectations and consistent coaching
-rhythm - Build cross-training plan for critical areas - Establish hiring
-and resourcing plan tied to demand
+Level 2 → Managed: 
+- Implement role expectations and consistent coaching rhythm 
+- Build cross-training plan for critical areas 
+- Establish hiring and resourcing plan tied to demand
 
-Level 3 → Optimized: - Map skills to roadmap and operational needs -
-Actively manage toil and on-call health - Formalize succession planning
-and redundancy requirements
+Level 3 → Optimized: 
+- Map skills to roadmap and operational needs 
+- Actively manage toil and on-call health 
+- Formalize succession planning and redundancy requirements
 
-Level 4 → Predictive & Autonomous: - Use forecasting to plan staffing
-and skill development - Continuously refine org design using flow,
-reliability, and engagement analytics - Predict and prevent capability
-gaps through early hiring/upskilling
+Level 4 → Predictive & Autonomous: 
+- Use forecasting to plan staffing and skill development 
+- Continuously refine org design using flow, reliability, and engagement analytics 
+- Predict and prevent capability gaps through early hiring/upskilling
 
 ------------------------------------------------------------------------
 
@@ -184,27 +187,42 @@ gaps through early hiring/upskilling
 
 ## 10. 90-Day Action Plan for a New Manager
 
-Days 1--30: - Map stakeholders and partner teams; clarify interfaces and
-expectations - Confirm service ownership boundaries and document gaps -
-Audit team structure, roles, and decision rights - Create or refresh
-skills matrix (include ops/security/architecture expectations) - Review
-operational load: - on-call rotation health - incident volume and toil
-sources - Identify single points of failure (people, process,
-knowledge) - Review performance health: - existing feedback cadence -
-recent performance concerns - role expectation clarity
+Days 1--30: 
+- Map stakeholders and partner teams; clarify interfaces and
+expectations 
+- Confirm service ownership boundaries and document gaps 
+- Audit team structure, roles, and decision rights 
+- Create or refresh skills matrix (include ops/security/architecture expectations) 
+- Review operational load: - on-call rotation health - incident volume and toil
+sources 
+- Identify single points of failure (people, process, knowledge) 
+- Review performance health: 
+    - existing feedback cadence 
+    - recent performance concerns 
+    - role expectation clarity
 
-Days 31--60: - Define and publish team charter and RACI (or refine
-existing) - Establish cross-training plan targeting highest-risk
-knowledge gaps - Implement toil tracking and prioritize top toil
-reduction items - Introduce role expectation scorecards and align with
-1:1 coaching - Create staffing plan: - hiring needs - upskilling needs -
-contractor/vendor dependency risks - Align with partner teams on
-escalation norms and collaboration rituals
+Days 31--60: 
+- Define and publish team charter and RACI (or refine
+existing) 
+- Establish cross-training plan targeting highest-risk knowledge gaps 
+- Implement toil tracking and prioritize top toil reduction items 
+- Introduce role expectation scorecards and align with 1:1 coaching 
+- Align with partner teams on escalation norms and collaboration rituals
+- Create staffing plan: 
+    - hiring needs 
+    - upskilling needs 
+    - contractor/vendor dependency risks 
 
-Days 61--90: - Execute key org resilience changes: - rotate ownership -
-pair critical responsibilities - improve on-call playbooks and rotation
-fairness - Establish quarterly talent review and succession planning
-rhythm - Publish a capability improvement roadmap (skills, structure,
-sustainability) - Set measurable targets for: - bus factor
-improvements - toil reduction - cross-training completion - on-call
-health
+
+Days 61--90: 
+- Execute key org resilience changes: 
+    - rotate ownership 
+    - pair critical responsibilities 
+    - improve on-call playbooks and rotation fairness 
+- Establish quarterly talent review and succession planning rhythm 
+- Publish a capability improvement roadmap (skills, structure, sustainability) 
+- Set measurable targets for: 
+    - bus factor improvements 
+    - toil reduction 
+    - cross-training completion 
+    - on-call health
