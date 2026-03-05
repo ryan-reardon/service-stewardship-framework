@@ -57,7 +57,7 @@ Do not attempt to elevate all domains simultaneously.
 
 ### Step 3: Deep-Dive with Domain Modules
 
-Open the corresponding domain module and:
+Open the corresponding domain module in `/modules`and:
 
 - Evaluate each section.
 - Confirm existence of required artifacts.
@@ -122,10 +122,10 @@ Avoid cosmetic documentation updates without operational change.
 
 The framework uses four maturity levels:
 
-- **Level 1 – Reactive**
-- **Level 2 – Managed**
-- **Level 3 – Optimized**
-- **Level 4 – Proactive**
+- **Level 1: Reactive**
+- **Level 2: Managed**
+- **Level 3: Optimized**
+- **Level 4: Proactive**
 
 Progression should be staged.
 
@@ -179,8 +179,7 @@ If the framework does not influence decisions, trade-offs, or investment allocat
 
 # Core Principle
 
-Services do not drift into excellence.
-
+Services do not drift into excellence.\
 They drift into entropy.
 
 The domain modules exist to ensure that leadership is intentional, structured, and multidimensional across:
@@ -199,10 +198,8 @@ If a service cannot be described clearly across these dimensions, stewardship is
 
 # Closing Guidance
 
-The Service Stewardship Framework is designed to evolve.
-
-As services scale and organizations change, stewardship practices must adapt.
-
+The Service Stewardship Framework is designed to evolve.\
+As services scale and organizations change, stewardship practices must adapt.\
 Treat the framework as a living operating model.
 
 Refine it.

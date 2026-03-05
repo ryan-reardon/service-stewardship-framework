@@ -7,8 +7,7 @@
 ## 1. Domain Purpose
 
 Ensure the service remains aligned to business strategy and delivers
-measurable value throughout its lifecycle.\Strategic Stewardship is the discipline of continuously validating why the service exists, who it serves, and whether the investment profile
-remains justified.
+measurable value throughout its lifecycle. Strategic Stewardship is the discipline of continuously validating why the service exists, who it serves, and whether the investment profile remains justified.
 
 ------------------------------------------------------------------------
 
@@ -27,10 +26,10 @@ A strategically mature service demonstrates:
 -   Transparent cost-to-value modeling
 -   Proactive retirement or consolidation decisions
 
-At Level 4 maturity: - Roadmap investment decisions are informed by
-demand forecasting - Scenario modeling (growth, contraction, regulatory
-change) influences planning - Adoption and satisfaction trends are
-forecasted and acted on early
+At Level 4 maturity: 
+- Roadmap investment decisions are informed by demand forecasting 
+- Scenario modeling (growth, contraction, regulatory change) influences planning 
+- Adoption and satisfaction trends are forecasted and acted on early
 
 ------------------------------------------------------------------------
 
@@ -102,20 +101,27 @@ relevance of service - Approve major investment or sunset decisions
 
 ## 8. Maturity Advancement Roadmap
 
-Level 1 → Reactive: - Identify named service owner - Create documented
-12-month roadmap - Document primary customers and use cases
+Level 1: Reactive 
+- Identify named service owner 
+- Create documented 12-month roadmap 
+- Document primary customers and use cases
 
-Level 2 → Managed: - Quantify initiative-level business outcomes -
-Introduce lifecycle stage classification - Track adoption and
-satisfaction trends - Establish modernization allocation rule
+Level 2: Managed 
+- Quantify initiative-level business outcomes 
+- Introduce lifecycle stage classification 
+- Track adoption and satisfaction trends 
+- Establish modernization allocation rule
 
-Level 3 → Optimized: - Implement scenario-based investment modeling -
-Formalize capacity allocation model - Publish quarterly strategic review
-summary - Track cost-to-value ratio trends
+Level 3: Optimized 
+- Implement scenario-based investment modeling 
+- Formalize capacity allocation model 
+- Publish quarterly strategic review summary 
+- Track cost-to-value ratio trends
 
-Level 4 → Predictive & Autonomous: - Integrate demand forecasting into
-roadmap planning - Automate strategic metric dashboards - Establish
-early-warning indicators for lifecycle transitions
+Level 4: Predictive & Autonomous 
+- Integrate demand forecasting into roadmap planning 
+- Automate strategic metric dashboards 
+- Establish early-warning indicators for lifecycle transitions
 
 ------------------------------------------------------------------------
 

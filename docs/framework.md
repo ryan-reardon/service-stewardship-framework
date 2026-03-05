@@ -1,13 +1,14 @@
 # Enterprise Technology Service Operating Framework
-**Version:** v1.0.1  
+**Version:** v1.1  
 **Last Updated:** March 2026  
 
 This framework defines the capabilities required for a technology
 service to operate as a durable, scalable, secure, and value-generating
 enterprise asset.
 
-Each domain represents a measurable management system.
 
+## Domain Table of Contents
+Each domain represents a measurable management system.
 
 1. [Strategic Stewardship](#1-strategic-stewardship) 
 2. [Organizational Capability](#2-organizational-capability)
@@ -70,9 +71,11 @@ measurable value, and evolves intentionally across its lifecycle.
 -   Cost-to-value ratio
 -   \% modernization vs maintenance spend
 
-[Strategic Stewardship Maturity Module](../modules/01-strategic-stewardship.md)\
-[Strategic Stewardship Operational Guide](../playbooks/01-strategic-stewardship.md)
+**Domain Resources**
 
+- [Domain Module](../modules/01-strategic-stewardship.md)
+- [Assessment Module](../assessments/modules/01-strategic-stewardship.md)
+- [Operational Playbook](../playbooks//01-strategic-stewardship.md)
 ------------------------------------------------------------------------
 
 # 2. Organizational Capability
@@ -96,8 +99,11 @@ Purpose: Ensure sustainable team structure, skills, and accountability.
 -   Employee engagement score
 -   Succession coverage %
 
-Operational Guide: [Organizational Capability]()
+**Domain Resources**
 
+- [Domain Module](../modules/02-organizational-capability.md)
+- [Assessment Module](../assessments/modules/02-organizational-capability.md)
+- [Operational Playbook](../playbooks/02-organizational-capability.md)
 ------------------------------------------------------------------------
 
 # 3. Value Execution
@@ -120,7 +126,12 @@ Purpose: Deliver business value predictably and efficiently.
 -   Throughput
 -   ROI realization rate
 
-Operational Guide: [Value Execution]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -145,7 +156,11 @@ Purpose: Build secure, automated, maintainable systems.
 -   \% infrastructure as code
 -   Automation coverage ratio
 
-Operational Guide: [Engineering Excellence]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
 
 ------------------------------------------------------------------------
 
@@ -171,7 +186,12 @@ Purpose: Maintain availability and minimize operational risk.
 -   Change success rate
 -   Capacity utilization %
 
-Operational Guide: [Operational Reliability]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -195,7 +215,12 @@ criteria.
 -   Scalability headroom
 -   Performance vs SLO targets
 
-Operational Guide: [Architectural Integrity]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -219,7 +244,12 @@ Purpose: Deliver professional and predictable customer interaction.
 -   \% tickets within SLA
 -   Repeat issue rate
 
-Operational Guide: [Service Experience]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -244,7 +274,12 @@ Purpose: Reduce and govern security and compliance risk.
 -   Compliance audit findings
 -   \% automated compliance evidence
 
-Operational Guide: [Security & Risk Governance]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -273,7 +308,12 @@ Purpose: Optimize total cost of ownership relative to delivered value.
 -   Cost-to-value ratio
 -   Automation ROI
 
-Operational Guide: [Finalcial Stewardship]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ------------------------------------------------------------------------
 
@@ -301,7 +341,12 @@ insight.
 -   SLA breach prediction accuracy
 -   \% roadmap decisions informed by telemetry
 
-Operational Guide: [Observability & Intelligence]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 ------------------------------------------------------------------------
 
 # 11. Innovation & Modernization
@@ -327,7 +372,12 @@ Purpose: Sustain long-term viability and prevent stagnation.
 -   Cost reduction via modernization
 -   Reliability improvement from modernization
 
-Operational Guide: [Innovation & Modernization]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 ------------------------------------------------------------------------
 
 # 12. Portfolio Alignment
@@ -352,7 +402,12 @@ Purpose: Ensure coherence within the enterprise ecosystem.
 -   Cross-service SLA attainment %
 -   Systemic risk exposure index
 
-Operational Guide: [Observability & Intelligence]()
+**Domain Resources**
+
+- [Domain Module]()
+- [Assessment Module]()
+- [Operational Playbook]()
+
 
 ## Domain Interdependence
 

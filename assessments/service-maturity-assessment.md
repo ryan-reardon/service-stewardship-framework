@@ -1,5 +1,5 @@
 # Service Maturity Assessment Questionnaire
-## Enterprise Technology Service Operating Framework
+## Enterprise Technology Service Stewardship Framework
 
 This consolidated assessment evaluates maturity across all 12 domains.
 

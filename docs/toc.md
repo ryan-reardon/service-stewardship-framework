@@ -54,16 +54,16 @@ Deep operational guides for each domain.
 
 1. [Strategic Stewardship](../modules/01-strategic-stewardship.md)
 2. [Organizational Capability](../modules/02-organizational-capability.md)
-3. [Value Execution](../modules/03-value-execution.md)
-4. [Engineering Excellence](../modules/04-engineering-excellence.md)
-5. [Operational Reliability](../modules/05-operational-reliability.md)
-6. [Architectural Integrity](../modules/06-architectural-integrity.md)
-7. [Service Experience](../modules/07-service-experience.md)
-8. [Security & Risk Governance](../modules/08-security-risk-governance.md)
-9. [Financial Stewardship](../modules/09-financial-stewardship.md)
-10. [Observability & Intelligence](../modules/10-observability-intelligence.md)
-11. [Innovation & Modernization](../modules/11-innovation-modernization.md)
-12. [Portfolio Alignment](../modules/12-portfolio-alignment.md)
+3. [Value Execution]()
+4. [Engineering Excellence]()
+5. [Operational Reliability]()
+6. [Architectural Integrity]()
+7. [Service Experience]()
+8. [Security & Risk Governance]()
+9. [Financial Stewardship]()
+10. [Observability & Intelligence]()
+11. [Innovation & Modernization]()
+12. [Portfolio Alignment]()
 
 ---
 
@@ -71,18 +71,18 @@ Deep operational guides for each domain.
 
 Execution-oriented guidance for applying improvements within each domain.
 
-1. [Strategic Stewardship](../playbooks/01-strategic-stewewardship.md)
-2. [Organizational Capability](../playbooks/02-organizational-capability.md)
-3. [Value Execution](../playbooks/03-value-execution.md)
-4. [Engineering Excellence](../playbooks/04-engineering-excellence.md)
-5. [Operational Reliability](../playbooks/05-operational-reliability.md)
-6. [Architectural Integrity](../playbooks/06-architectural-integrity.md)
-7. [Service Experience](../playbooks/07-service-experience.md)
-8. [Security & Risk Governance](../playbooks/08-security-risk-governance.md)
-9. [Financial Stewardship](../playbooks/09-financial-stewardship.md)
-10. [Observability & Intelligence](../playbooks/10-observability-intelligence.md)
-11. [Innovation & Modernization](../playbooks/11-innovation-modernization.md)
-12. [Portfolio Alignment](../playbooks/12-portfolio-alignment.md)
+1. [Strategic Stewardship](../playbooks/01-strategic-stewardship.md)
+2. [Organizational Capability]()
+3. [Value Execution]()
+4. [Engineering Excellence]()
+5. [Operational Reliability]()
+6. [Architectural Integrity]()
+7. [Service Experience]()
+8. [Security & Risk Governance]()
+9. [Financial Stewardship]()
+10. [Observability & Intelligence]())
+11. [Innovation & Modernization]()
+12. [Portfolio Alignment]()
 
 ---
 
