@@ -36,7 +36,7 @@ This framework is:
 
 ## Start Here
 
-If you are new to the framework, begin in this order:
+If you are new to the framework, follow this recommended reading order:
 
 1. [Introduction](docs/introduction.md)  
    Understand the leadership philosophy and intent behind the model.
@@ -105,7 +105,7 @@ The maturity model allows leaders to:
 - Prioritize investment intentionally  
 - Track measurable improvement over time  
 
-See Full details here:\
+See full details here:
 [Maturity Model Overview](maturity-model/README.md)
 
 ---
@@ -132,7 +132,7 @@ Each domain includes a deep-dive operational guide that provides:
 
 Explore domain modules in:
 
-`domain-modules/`
+[Modules Directory](modules/)
 
 ---
 
@@ -151,3 +151,11 @@ Use it to:
 Step-by-step guidance is available here:
 
 [How to Use the Framework](docs/how-to-use.md)
+
+## Repository Navigation
+
+- Framework overview: `docs/framework.md`
+- Domain modules: `modules/`
+- Operational playbooks: `playbooks/`
+- Assessment modules: `assessments/modules/`
+- Maturity model: `maturity-model/`

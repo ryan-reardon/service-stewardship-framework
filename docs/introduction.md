@@ -16,7 +16,7 @@ Strong service leadership changes that trajectory.
 
 This Service Stewardship Framework establishes a comprehensive model for what it means to truly own a technology service — not only from a technical standpoint, but from a strategic, financial, operational, and organizational perspective.
 
-It defines ownership as stewardship.
+It reframes ownership as stewardship.
 
 Ownership means:
 

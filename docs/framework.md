@@ -6,8 +6,9 @@ This framework defines the capabilities required for a technology
 service to operate as a durable, scalable, secure, and value-generating
 enterprise asset.
 
-Each domain represents a measurable management system.
 
+## Domain Table of Contents
+Each domain represents a measurable management system.
 
 1. [Strategic Stewardship](#1-strategic-stewardship) 
 2. [Organizational Capability](#2-organizational-capability)

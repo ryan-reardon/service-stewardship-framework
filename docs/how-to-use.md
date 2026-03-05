@@ -57,7 +57,7 @@ Do not attempt to elevate all domains simultaneously.
 
 ### Step 3: Deep-Dive with Domain Modules
 
-Open the corresponding domain module and:
+Open the corresponding domain module in `/modules`and:
 
 - Evaluate each section.
 - Confirm existence of required artifacts.
