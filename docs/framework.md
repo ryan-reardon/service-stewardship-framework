@@ -128,9 +128,9 @@ Purpose: Deliver business value predictably and efficiently.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/03-value-execution.md)
+- [Assessment Module](../assessments/modules/03-value-execution.md)
+- [Operational Playbook](../playbooks/03_Value_Execution_Playbook.md)
 
 
 ------------------------------------------------------------------------
