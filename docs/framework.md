@@ -158,9 +158,9 @@ Purpose: Build secure, automated, maintainable systems.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/04-engineering-excellence.md)
+- [Assessment Module](../assessments/modules/04-engineering-excellence.md)
+- [Operational Playbook](../playbooks/04-engineering-excellence.md)
 
 ------------------------------------------------------------------------
 
