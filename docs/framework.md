@@ -130,7 +130,7 @@ Purpose: Deliver business value predictably and efficiently.
 
 - [Domain Module](../modules/03-value-execution.md)
 - [Assessment Module](../assessments/modules/03-value-execution.md)
-- [Operational Playbook](../playbooks/03_Value_Execution_Playbook.md)
+- [Operational Playbook](../playbooks/03-value-execution.md)
 
 
 ------------------------------------------------------------------------
