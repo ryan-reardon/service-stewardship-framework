@@ -130,7 +130,7 @@ Purpose: Deliver business value predictably and efficiently.
 
 - [Domain Module](../modules/03-value-execution.md)
 - [Assessment Module](../assessments/modules/03-value-execution.md)
-- [Operational Playbook](../playbooks/03_Value_Execution_Playbook.md)
+- [Operational Playbook](../playbooks/03-value-execution.md)
 
 
 ------------------------------------------------------------------------
@@ -158,9 +158,9 @@ Purpose: Build secure, automated, maintainable systems.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/04-engineering-excellence.md)
+- [Assessment Module](../assessments/modules/04-engineering-excellence.md)
+- [Operational Playbook](../playbooks/04-engineering-excellence.md)
 
 ------------------------------------------------------------------------
 
