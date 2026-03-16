@@ -6,6 +6,30 @@ Versioning follows a domain-release model. Each minor version adds one or more c
 
 ---
 
+## [v1.3] — March 2026
+
+### Added
+
+- **Domain 04: Engineering Excellence** — full domain package:
+  - Domain Module (`modules/04-engineering-excellence.md`)
+  - Assessment Module (`assessments/modules/04-engineering-excellence.md`)
+  - Operational Playbook (`playbooks/04-engineering-excellence.md`)
+
+### Fixed
+  - Minor link updates and file name corrections
+  
+### Domain Summary
+
+Engineering Excellence defines how engineering managers build a delivery system that enforces quality, security, and operational readiness as default outputs rather than individual disciplines.
+
+The domain module covers the full operational model including purpose, target state, core responsibilities, governance cadence, required artifacts, operating mechanisms, key metrics, leading risk indicators, maturity progression, and domain relationships.
+
+The assessment module provides level-by-level maturity evaluation with characteristics and evidence review criteria at each level (Reactive through Proactive), a scoring summary, risk considerations, and improvement planning guidance.
+
+The operational playbook provides engineering manager guidance across all 10 sections including a 90-day action plan for new managers.
+
+---
+
 ## [v1.2] — March 2026
 
 ### Added
