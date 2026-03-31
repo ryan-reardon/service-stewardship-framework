@@ -152,27 +152,30 @@ measurement to continuously refine prioritization
 
 ## 10. 90-Day Action Plan for a New Manager
 
-Days 1--30: - Map stakeholders and decision-makers; establish intake
-expectations - Audit current delivery system (agile rituals, planning
-quality, backlog hygiene) - Identify bottlenecks (approvals, reviews,
-testing, environment constraints) - Review how work is prioritized today
-and where it breaks down - Identify hidden work (support, toil,
-incidents) and quantify impact on capacity - Review definitions of
-ready/done and operational readiness gaps - Establish baseline metrics
-for flow and predictability
+Days 1--30: 
+- Map stakeholders and decision-makers; establish intake
+expectations 
+- Audit current delivery system (agile rituals, planning
+quality, backlog hygiene) 
+- Identify bottlenecks (approvals, reviews, testing, environment constraints) 
+- Review how work is prioritized today and where it breaks down 
+- Identify hidden work (support, toil, incidents) and quantify impact on capacity 
+- Review definitions of ready/done and operational readiness gaps 
+- Establish baseline metrics for flow and predictability
 
-Days 31--60: - Implement value-based prioritization and publish
-criteria - Introduce capacity allocation model and planning guardrails -
-Establish dependency tracking for major workstreams - Put WIP limits in
-place; reduce parallel initiatives - Strengthen "done" to include
-runbooks, monitoring, support readiness - Run retrospectives with action
-tracking and ownership - Begin post-delivery outcome measurement for
-completed work
+Days 31--60: 
+- Implement value-based prioritization and publish criteria 
+- Introduce capacity allocation model and planning guardrails 
+- Establish dependency tracking for major workstreams 
+- Put WIP limits in place; reduce parallel initiatives 
+- Strengthen "done" to include runbooks, monitoring, support readiness 
+- Run retrospectives with action tracking and ownership 
+- Begin post-delivery outcome measurement for completed work
 
-Days 61--90: - Recalibrate commitments with stakeholders based on
-capacity reality - Improve predictability through smaller batch sizes
-and reduced WIP - Publish a delivery scorecard and roadmap confidence
-view - Establish a portfolio review cadence (monthly) and dependency
-review cadence (weekly) - Use metrics to target specific bottlenecks and
-implement systemic fixes - Institutionalize outcome measurement and
-refine prioritization based on evidence
+Days 61--90: 
+- Recalibrate commitments with stakeholders based on capacity reality 
+- Improve predictability through smaller batch sizes and reduced WIP 
+- Publish a delivery scorecard and roadmap confidence view 
+- Establish a portfolio review cadence (monthly) and dependency review cadence (weekly) 
+- Use metrics to target specific bottlenecks and implement systemic fixes 
+- Institutionalize outcome measurement and refine prioritization based on evidence

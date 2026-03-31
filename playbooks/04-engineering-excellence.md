@@ -156,26 +156,27 @@ Predictive detection of quality/security regressions
 
 ## 10. 90-Day Action Plan for a New Manager
 
-Days 1--30: - Audit current SDLC, CI/CD, and release process
-end-to-end - Identify top failure modes: change failures, slow reviews,
-flaky pipelines - Inventory automation gaps and highest-toil operational
-activities - Review security posture in SDLC: scanning, dependencies,
-secrets handling - Establish baseline metrics (change failure rate,
-deployment frequency, toil) - Identify top-quality risks (low coverage,
-high defect areas, fragile components) - Review documentation health:
-runbooks, onboarding, operational procedures
+Days 1--30: 
+- Audit current SDLC, CI/CD, and release process end-to-end 
+- Identify top failure modes: change failures, slow reviews, flaky pipelines 
+- Inventory automation gaps and highest-toil operational activities 
+- Review security posture in SDLC: scanning, dependencies, secrets handling 
+- Establish baseline metrics (change failure rate, deployment frequency, toil) 
+- Identify top-quality risks (low coverage, high defect areas, fragile components) 
+- Review documentation health: runbooks, onboarding, operational procedures
 
-Days 31--60: - Enforce branch protections and minimum quality gates -
-Stabilize CI/CD pipelines; make bypassing difficult and visible -
-Establish release and rollback procedures with verification steps -
-Start a prioritized automation/toil reduction backlog with explicit
-ownership - Introduce secure SDLC guardrails (scanning + remediation
-SLAs) - Standardize runbook templates and require operational readiness
-for "done"
+Days 31--60: 
+- Enforce branch protections and minimum quality gates 
+- Stabilize CI/CD pipelines; make bypassing difficult and visible 
+- Establish release and rollback procedures with verification steps 
+- Start a prioritized automation/toil reduction backlog with explicit ownership 
+- Introduce secure SDLC guardrails (scanning + remediation SLAs) 
+- Standardize runbook templates and require operational readiness for "done"
 
-Days 61--90: - Increase automation coverage for top-toil ops tasks -
-Implement progressive delivery/safer release patterns where feasible -
-Set measurable targets for quality and change outcomes - Publish
-engineering excellence scorecard and review monthly - Institutionalize
-standards audits and pipeline ownership model - Ensure documentation and
-onboarding are maintained as living artifacts
+Days 61--90: 
+- Increase automation coverage for top-toil ops tasks 
+- Implement progressive delivery/safer release patterns where feasible 
+- Set measurable targets for quality and change outcomes 
+- Publish engineering excellence scorecard and review monthly 
+- Institutionalize standards audits and pipeline ownership model 
+- Ensure documentation and onboarding are maintained as living artifacts
