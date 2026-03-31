@@ -5,6 +5,20 @@ All releases of the Service Stewardship Framework are documented here.
 Versioning follows a domain-release model. Each minor version adds one or more complete domain packages (domain module, assessment module, and operational playbook). Patch versions address corrections and formatting improvements.
 
 ---
+## [v1.4] — March 2026
+
+### Added
+
+- **Domain 05: Operational Reliability** — full domain package:
+  - Domain Module (`modules/05-operational-reliability.md`)
+  - Assessment Module (`assessments/modules/05-operational-reliability.md`)
+  - Operational Playbook (`playbooks/05-operational-reliability.md`)
+
+### Domain Summary
+
+Operational Reliability defines how engineering managers build a service that runs predictably, responds to incidents with structure, and systematically prevents recurrence through error budget governance, blameless postmortems, and proactive capacity planning.
+
+---
 
 ## [v1.3] — March 2026
 
