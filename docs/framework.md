@@ -188,9 +188,9 @@ Purpose: Maintain availability and minimize operational risk.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/05-operational-reliability.md)
+- [Assessment Module](../assessments/modules/05-operational-reliability-assessment.md)
+- [Operational Playbook](../playbooks/05-operational-reliability.md)
 
 
 ------------------------------------------------------------------------
