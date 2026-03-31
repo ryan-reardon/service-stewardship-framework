@@ -1,7 +1,7 @@
 # The Service Stewardship Framework
 
 ![Service Stewardship Framework](docs/assets/framework-diagram.png)
-**Version:** v1.1 
+**Version:** v1.4
 **Last Updated:** March 2026  
 
 
