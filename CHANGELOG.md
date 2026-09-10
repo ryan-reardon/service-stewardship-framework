@@ -5,6 +5,30 @@ All releases of the Service Stewardship Framework are documented here.
 Versioning follows a domain-release model. Each minor version adds one or more complete domain packages (domain module, assessment module, and operational playbook). Patch versions address corrections and formatting improvements.
 
 ---
+## [v1.5] — September 2026
+
+### Added
+
+- **Domain 06: Architectural Integrity** — full domain package:
+  - Domain Module (`modules/06-architectural-integrity.md`)
+  - Assessment Module (`assessments/modules/06-architectural-integrity.md`)
+  - Operational Playbook (`playbooks/06-architectural-integrity.md`)
+
+### Domain Summary
+
+Architectural Integrity defines how engineering managers prevent complexity from becoming the default outcome of growth and change through explicit decision-making, ADR governance, debt management, and platform discipline.
+
+- **Domain 07: Service Experience** — full domain package:
+  - Domain Module (`modules/07-service-experience.md`)
+  - Assessment Module (`assessments/modules/07-service-experience.md`)
+  - Operational Playbook (`playbooks/07-service-experience.md`)
+
+### Domain Summary
+
+Service Experience defines how engineering managers build a support model that earns customer trust through predictable response, consistent communication, self-service capability, and systematic reduction of recurring friction.
+
+
+---
 ## [v1.4] — March 2026
 
 ### Added

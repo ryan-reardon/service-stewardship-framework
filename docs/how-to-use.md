@@ -4,7 +4,7 @@ The Service Stewardship Framework is not intended to be a static document.
 
 It is an operating instrument.
 
-This guide explains how to apply the framework and domain modules in practice to drive structured service ownership, measurable maturity progression, and intentional leadership.
+This guide explains how to apply the [framework](framework.md) and [domain modules](../modules/) in practice to drive structured service ownership, measurable maturity progression, and intentional leadership.
 
 ---
 
@@ -34,12 +34,13 @@ The framework supports three primary use cases:
 
 ## 1. Structured Self-Assessment
 
-Start with the consolidated maturity questionnaire.
+Start with the [consolidated maturity questionnaire](../assessments/service-maturity-assessment.md).
 
 ### Step 1: Baseline Scoring
 
 - Evaluate all 12 domains.
-- Score each domain using the maturity model (Reactive → Proactive).
+- Score each domain using the [maturity model](../maturity-model/README.md) (Reactive → Proactive).
+- Apply the [scoring guidance](../maturity-model/scoring-guidance.md) consistently.
 - Provide evidence for each score.
 - Avoid aspirational scoring.
 
@@ -57,12 +58,14 @@ Do not attempt to elevate all domains simultaneously.
 
 ### Step 3: Deep-Dive with Domain Modules
 
-Open the corresponding domain module in `/modules`and:
+Open the corresponding [domain module](../modules/) and:
 
 - Evaluate each section.
 - Confirm existence of required artifacts.
 - Review metrics and governance cadence.
 - Identify structural gaps.
+
+Use the matching [assessment module](../assessments/modules/) for detailed scoring criteria and the [operational playbook](../playbooks/) for the governance cadence.
 
 This prevents overconfidence and ensures evidence-based assessment.
 
@@ -207,3 +210,16 @@ Challenge it.
 Improve it.
 
 Intentional stewardship is what sustains durable technology services.
+
+---
+
+# Related Resources
+
+- [Introduction](introduction.md)
+- [Framework Definition](framework.md)
+- [Maturity Model](../maturity-model/README.md)
+- [Scoring Guidance](../maturity-model/scoring-guidance.md)
+- [Service Maturity Assessment](../assessments/service-maturity-assessment.md)
+- [Assessment Modules](../assessments/modules/)
+- [Domain Modules](../modules/)
+- [Operational Playbooks](../playbooks/)

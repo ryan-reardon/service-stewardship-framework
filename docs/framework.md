@@ -75,7 +75,7 @@ measurable value, and evolves intentionally across its lifecycle.
 
 - [Domain Module](../modules/01-strategic-stewardship.md)
 - [Assessment Module](../assessments/modules/01-strategic-stewardship.md)
-- [Operational Playbook](../playbooks//01-strategic-stewardship.md)
+- [Operational Playbook](../playbooks/01-strategic-stewardship.md)
 ------------------------------------------------------------------------
 
 # 2. Organizational Capability
@@ -217,9 +217,9 @@ criteria.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/06-architectural-integrity.md)
+- [Assessment Module](../assessments/modules/06-architectural-integrity-assessment.md)
+- [Operational Playbook](../playbooks/06-architectural-integrity.md)
 
 
 ------------------------------------------------------------------------
@@ -246,9 +246,9 @@ Purpose: Deliver professional and predictable customer interaction.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/07-service-experience.md)
+- [Assessment Module](../assessments/modules/07-service-experience-assessment.md)
+- [Operational Playbook](../playbooks/07-service-experience.md)
 
 
 ------------------------------------------------------------------------
@@ -276,9 +276,9 @@ Purpose: Reduce and govern security and compliance risk.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/08-security-risk-governance.md)
+- [Assessment Module](../assessments/modules/08-security-risk-governance-assessment.md)
+- [Operational Playbook](../playbooks/08-security-risk-governance.md)
 
 
 ------------------------------------------------------------------------
@@ -310,9 +310,9 @@ Purpose: Optimize total cost of ownership relative to delivered value.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/09-financial-stewardship.md)
+- [Assessment Module](../assessments/modules/09-financial-stewardship-assessment.md)
+- [Operational Playbook](../playbooks/09-financial-stewardship.md)
 
 
 ------------------------------------------------------------------------
@@ -343,9 +343,9 @@ insight.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/10-observability-intelligence.md)
+- [Assessment Module](../assessments/modules/10-observability-intelligence-assessment.md)
+- [Operational Playbook](../playbooks/10-observability-intelligence.md)
 
 ------------------------------------------------------------------------
 
@@ -374,9 +374,9 @@ Purpose: Sustain long-term viability and prevent stagnation.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/11-innovation-modernization.md)
+- [Assessment Module](../assessments/modules/11-innovation-modernization-assessment.md)
+- [Operational Playbook](../playbooks/11-innovation-modernization.md)
 
 ------------------------------------------------------------------------
 
@@ -404,9 +404,9 @@ Purpose: Ensure coherence within the enterprise ecosystem.
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/12-portfolio-alignment.md)
+- [Assessment Module](../assessments/modules/12-portfolio-alignment-assessment.md)
+- [Operational Playbook](../playbooks/12-portfolio-alignment.md)
 
 
 ## Domain Interdependence

@@ -157,27 +157,32 @@ governance tied to reliability forecasting
 
 ## 10. 90-Day Action Plan for a New Manager
 
-Days 1--30: - Map reliability stakeholders: customers, support, infra,
-security, partner teams - Inventory current SLAs/SLOs/OLAs and identify
-measurement gaps - Audit incident response process and postmortem
-quality - Review recent incidents for recurrence patterns and unresolved
-action items - Audit monitoring and alerting coverage; identify blind
-spots and noisy alerts - Review capacity posture: utilization, known
-bottlenecks, historical saturation events - Create baseline reliability
-scorecard (SLA, MTTD/MTTR, change failure rate)
+Days 1--30: 
+- Map reliability stakeholders: customers, support, infra, security, partner teams 
+- Inventory current SLAs/SLOs/OLAs and identify measurement gaps 
+- Audit incident response process and postmortem quality 
+- Review recent incidents for recurrence patterns and unresolved action items 
+- Audit monitoring and alerting coverage; identify blind spots and noisy alerts 
+- Review capacity posture: utilization, known bottlenecks, historical saturation events 
+- Create baseline reliability scorecard (SLA, MTTD/MTTR, change failure rate)
 
-Days 31--60: - Formalize or refresh SLOs and error budgets; define
-consequence policies - Improve incident response readiness: - update
-runbooks - clarify comms paths - ensure escalation works - Establish
-postmortem action governance and follow-through mechanism - Launch alert
-rationalization and monitoring coverage initiative - Create toil
-register and prioritize top automation targets - Establish capacity
-planning cadence and stress test strategy
+Days 31--60: 
+- Formalize or refresh SLOs and error budgets; define consequence policies 
+- Improve incident response readiness: 
+    - update runbooks 
+    - clarify comms paths 
+    - ensure escalation works 
+- Establish postmortem action governance and follow-through mechanism 
+- Launch alert rationalization and monitoring coverage initiative 
+- Create toil register and prioritize top automation targets 
+- Establish capacity planning cadence and stress test strategy
 
-Days 61--90: - Tie release/change cadence to error budget posture
-(implement policy) - Deliver top reliability improvements: - automate
-common remediation - reduce high-frequency incident causes - Improve
-alert precision and reduce pager fatigue measurably - Publish
-reliability roadmap and quarterly investment plan - Run at least one
-reliability exercise (game day / DR test where applicable) -
-Institutionalize weekly and monthly reliability review forums
+Days 61--90: 
+- Tie release/change cadence to error budget posture (implement policy) 
+- Deliver top reliability improvements: 
+    - automate common remediation 
+    - reduce high-frequency incident causes 
+- Improve alert precision and reduce pager fatigue measurably 
+- Publish reliability roadmap and quarterly investment plan 
+- Run at least one reliability exercise (game day / DR test where applicable) 
+- Institutionalize weekly and monthly reliability review forums

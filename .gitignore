@@ -1,0 +1,13 @@
+# Windows Alternate Data Streams
+# WSL surfaces these as separate files when copying from Windows/downloads
+*:Zone.Identifier
+*:mshield
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office lock/temp files (maturity-model/*.xlsx)
+~$*
+*.tmp

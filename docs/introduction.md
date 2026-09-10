@@ -52,7 +52,7 @@ This is how we transform services from liabilities into durable strategic assets
 ## A Commitment to Long-Term Stewardship
 Sustainable excellence requires long-term thinking.
 
-This framework intentionally spans twelve interconnected domains — from Strategic Stewardship and Financial Discipline to Operational Reliability, Security Governance, and Portfolio Alignment — because true ownership is multidimensional.
+This framework intentionally spans [twelve interconnected domains](framework.md) — from Strategic Stewardship and Financial Discipline to Operational Reliability, Security Governance, and Portfolio Alignment — because true ownership is multidimensional.
 
 - No single metric defines health.
 - No single outage defines failure.
@@ -60,7 +60,7 @@ This framework intentionally spans twelve interconnected domains — from Strate
 
 High-performing services are the result of balanced strength across domains and continuous maturity progression.
 
-This framework embeds that progression through a four-level maturity model, enabling leaders to:
+This framework embeds that progression through a [four-level maturity model](../maturity-model/README.md), enabling leaders to:
 
 - Diagnose current state honestly.
 - Prioritize improvements intentionally.
@@ -103,3 +103,13 @@ Technology services will continue to grow in scale and interdependence.
 Our standard for ownership must grow with them.
 
 This framework is the foundation for that standard.
+
+---
+
+## Where to Go Next
+
+1. [Framework Definition](framework.md) — the 12 domains and their responsibilities.
+2. [Maturity Model](../maturity-model/README.md) — the four-level progression.
+3. [Service Maturity Assessment](../assessments/service-maturity-assessment.md) — baseline your service.
+4. [How to Use the Framework](how-to-use.md) — put it into practice.
+5. [Domain Modules](../modules/) and [Operational Playbooks](../playbooks/) — deep-dive guidance.
