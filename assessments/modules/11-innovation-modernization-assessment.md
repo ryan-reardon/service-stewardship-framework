@@ -4,8 +4,8 @@ This assessment evaluates the maturity of Innovation & Modernization within a te
 
 The objective is legacy risk reduction and modernization delivery, not technology novelty.
 
-Score conservatively.
-Require evidence.
+Score conservatively.  
+Require evidence.  
 Default to the lower level when uncertain.
 
 ---

@@ -170,7 +170,7 @@ Observability & Intelligence evolves through staged progression:
 - Platform-agnostic instrumentation design enforced
 - Instrumentation included in Definition of Done for new work
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Anomaly detection and predictive alerting in place
 - Observability data feeding forecasting models for capacity and reliability
 - Alert quality and coverage continuously measured and improved

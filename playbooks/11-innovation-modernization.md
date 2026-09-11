@@ -110,7 +110,7 @@ Level 3 → Optimized:
 - Track and report modernization progress regularly
 - Tie modernization priorities to architectural debt and strategic goals
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Predict modernization needs before they become urgent
 - Systematically feed experimentation outcomes into the roadmap
 - Inform platform evolution decisions with industry and trend analysis

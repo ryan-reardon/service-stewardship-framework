@@ -4,8 +4,8 @@ This assessment evaluates the maturity of Observability & Intelligence within a 
 
 The objective is signal quality and decision support, not dashboard count.
 
-Score conservatively.
-Require evidence.
+Score conservatively.  
+Require evidence.  
 Default to the lower level when uncertain.
 
 ---

@@ -4,8 +4,8 @@ This assessment evaluates the maturity of Portfolio Alignment within a technolog
 
 The objective is portfolio coherence and dependency transparency, not internal service performance alone.
 
-Score conservatively.
-Require evidence.
+Score conservatively.  
+Require evidence.  
 Default to the lower level when uncertain.
 
 ---

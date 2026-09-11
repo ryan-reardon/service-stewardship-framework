@@ -123,13 +123,17 @@ Service Experience must be measurable.
 
 Representative metrics include:
 
+- CSAT and NPS trend over time
 - First response time by severity
 - Time to resolution by severity
 - Ticket backlog age distribution
-- Escalation rate and escalation aging
-- CSAT and satisfaction trend over time
+- Ticket root-cause distribution: recurring versus novel issues
 - Repeat issue rate: same root cause recurring across tickets
-- Knowledge base usage and deflection rate: self-service success
+- Escalation rate and escalation aging
+- Self-service deflection rate and knowledge base usage
+- Documentation coverage and freshness indicators
+- Incident and change communication timeliness
+- Feedback-to-roadmap conversion rate
 - Percentage of tickets with complete intake information
 
 Metrics should drive root cause investment and self-service improvement, not just SLA compliance tracking.
@@ -172,7 +176,7 @@ Service Experience evolves through staged progression:
 - Customer feedback integrated into roadmap planning
 - Recurring issues systematically reduced through engineering fixes
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Support demand forecasted and proactively reduced
 - Automated resolution in place for common request classes
 - Proactive communications prevent avoidable escalations

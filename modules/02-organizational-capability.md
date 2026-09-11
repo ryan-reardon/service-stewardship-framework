@@ -182,7 +182,7 @@ Organizational Capability evolves through staged progression:
 - Knowledge redundancy embedded
 - Skill forecasting integrated into planning
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Capability forecasting anticipates lifecycle shifts
 - Structural changes precede constraint
 - Succession and redundancy institutionalized

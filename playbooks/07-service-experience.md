@@ -112,7 +112,7 @@ Level 3 → Optimized:
 - Formalize communication protocols for incidents and changes
 - Reduce support ticket volume through systemic fixes rather than repeated triage
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Predict satisfaction and churn risk from usage and support signals
 - Personalize experience based on segment and usage patterns
 - Continuously improve self-service through usage analytics

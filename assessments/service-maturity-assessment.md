@@ -1,5 +1,5 @@
 # Service Maturity Assessment Questionnaire
-## Enterprise Technology Service Stewardship Framework
+## The Service Stewardship Framework
 
 This consolidated assessment evaluates maturity across all 12 domains.
 
@@ -7,7 +7,7 @@ Scoring Scale:
 1 = Reactive / Informal  
 2 = Managed / Documented but inconsistent  
 3 = Optimized / Measured and governed  
-4 = Predictive / Proactive and continuously improving  
+4 = Proactive and continuously improving  
 
 Evidence should be cited for each score.
 
@@ -27,7 +27,7 @@ Related references:
 - Modernization capacity protected
 - Cost-to-value trend reviewed quarterly
 
-Detail: [Assessment Module](modules/01-strategic-stewardship.md) · [Domain Module](../modules/01-strategic-stewardship.md) · [Playbook](../playbooks/01-strategic-stewardship.md)
+Detail: [Assessment Module](modules/01-strategic-stewardship-assessment.md) · [Domain Module](../modules/01-strategic-stewardship.md) · [Playbook](../playbooks/01-strategic-stewardship.md)
 
 ## 2. Organizational Capability
 - Documented team charter and ownership boundaries
@@ -36,7 +36,7 @@ Detail: [Assessment Module](modules/01-strategic-stewardship.md) · [Domain Modu
 - Sustainable on-call workload
 - Active growth and succession planning
 
-Detail: [Assessment Module](modules/02-organizational-capability.md) · [Domain Module](../modules/02-organizational-capability.md) · [Playbook](../playbooks/02-organizational-capability.md)
+Detail: [Assessment Module](modules/02-organizational-capability-assessment.md) · [Domain Module](../modules/02-organizational-capability.md) · [Playbook](../playbooks/02-organizational-capability.md)
 
 ## 3. Value Execution
 - Explicit value-based prioritization
@@ -45,7 +45,7 @@ Detail: [Assessment Module](modules/02-organizational-capability.md) · [Domain 
 - Dependencies actively managed
 - Post-delivery outcome measurement
 
-Detail: [Assessment Module](modules/03-value-execution.md) · [Domain Module](../modules/03-value-execution.md) · [Playbook](../playbooks/03-value-execution.md)
+Detail: [Assessment Module](modules/03-value-execution-assessment.md) · [Domain Module](../modules/03-value-execution.md) · [Playbook](../playbooks/03-value-execution.md)
 
 ## 4. Engineering Excellence
 - CI/CD with enforced quality gates
@@ -54,7 +54,7 @@ Detail: [Assessment Module](modules/03-value-execution.md) · [Domain Module](..
 - Toil measured and reduced
 - Secure SDLC embedded
 
-Detail: [Assessment Module](modules/04-engineering-excellence.md) · [Domain Module](../modules/04-engineering-excellence.md) · [Playbook](../playbooks/04-engineering-excellence.md)
+Detail: [Assessment Module](modules/04-engineering-excellence-assessment.md) · [Domain Module](../modules/04-engineering-excellence.md) · [Playbook](../playbooks/04-engineering-excellence.md)
 
 ## 5. Operational Reliability
 - SLAs/SLOs defined and measured

@@ -122,7 +122,7 @@ If strategic decisions are anticipatory rather than reactive, score Level 4.
 | 1 | Reactive and informal |
 | 2 | Documented but basic |
 | 3 | Aligned and investment-driven |
-| 4 | Predictive and enterprise-integrated |
+| 4 | Proactive and enterprise-integrated |
 
 ---
 

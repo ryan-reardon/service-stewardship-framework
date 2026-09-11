@@ -1,8 +1,8 @@
 # The Service Stewardship Framework
 
 ![Service Stewardship Framework](docs/assets/framework-diagram.png)
-**Version:** v1.4
-**Last Updated:** March 2026  
+**Version:** v1.5  
+**Last Updated:** September 2026  
 
 
 ---
@@ -64,10 +64,10 @@ The framework organizes service ownership into twelve interconnected domains:
 
 | # | Domain | Definition | Module | Assessment | Playbook |
 |---|--------|------------|--------|------------|----------|
-| 1 | Strategic Stewardship | [Definition](docs/framework.md#1-strategic-stewardship) | [Module](modules/01-strategic-stewardship.md) | [Assessment](assessments/modules/01-strategic-stewardship.md) | [Playbook](playbooks/01-strategic-stewardship.md) |
-| 2 | Organizational Capability | [Definition](docs/framework.md#2-organizational-capability) | [Module](modules/02-organizational-capability.md) | [Assessment](assessments/modules/02-organizational-capability.md) | [Playbook](playbooks/02-organizational-capability.md) |
-| 3 | Value Execution | [Definition](docs/framework.md#3-value-execution) | [Module](modules/03-value-execution.md) | [Assessment](assessments/modules/03-value-execution.md) | [Playbook](playbooks/03-value-execution.md) |
-| 4 | Engineering Excellence | [Definition](docs/framework.md#4-engineering-excellence) | [Module](modules/04-engineering-excellence.md) | [Assessment](assessments/modules/04-engineering-excellence.md) | [Playbook](playbooks/04-engineering-excellence.md) |
+| 1 | Strategic Stewardship | [Definition](docs/framework.md#1-strategic-stewardship) | [Module](modules/01-strategic-stewardship.md) | [Assessment](assessments/modules/01-strategic-stewardship-assessment.md) | [Playbook](playbooks/01-strategic-stewardship.md) |
+| 2 | Organizational Capability | [Definition](docs/framework.md#2-organizational-capability) | [Module](modules/02-organizational-capability.md) | [Assessment](assessments/modules/02-organizational-capability-assessment.md) | [Playbook](playbooks/02-organizational-capability.md) |
+| 3 | Value Execution | [Definition](docs/framework.md#3-value-execution) | [Module](modules/03-value-execution.md) | [Assessment](assessments/modules/03-value-execution-assessment.md) | [Playbook](playbooks/03-value-execution.md) |
+| 4 | Engineering Excellence | [Definition](docs/framework.md#4-engineering-excellence) | [Module](modules/04-engineering-excellence.md) | [Assessment](assessments/modules/04-engineering-excellence-assessment.md) | [Playbook](playbooks/04-engineering-excellence.md) |
 | 5 | Operational Reliability | [Definition](docs/framework.md#5-operational-reliability) | [Module](modules/05-operational-reliability.md) | [Assessment](assessments/modules/05-operational-reliability-assessment.md) | [Playbook](playbooks/05-operational-reliability.md) |
 | 6 | Architectural Integrity | [Definition](docs/framework.md#6-architectural-integrity) | [Module](modules/06-architectural-integrity.md) | [Assessment](assessments/modules/06-architectural-integrity-assessment.md) | [Playbook](playbooks/06-architectural-integrity.md) |
 | 7 | Service Experience | [Definition](docs/framework.md#7-service-experience) | [Module](modules/07-service-experience.md) | [Assessment](assessments/modules/07-service-experience-assessment.md) | [Playbook](playbooks/07-service-experience.md) |

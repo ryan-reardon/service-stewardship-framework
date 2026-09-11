@@ -168,7 +168,7 @@ Financial Stewardship evolves through staged progression:
 - Business case requirement enforced for new initiatives above defined threshold
 - Cost attribution granularity improved to service and initiative level
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Cost forecasting under growth and contraction scenarios in active use
 - Unit economics tracked and actively improved
 - Financial posture integrated into strategic roadmap planning

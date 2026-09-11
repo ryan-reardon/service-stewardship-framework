@@ -179,7 +179,7 @@ Operational Reliability evolves through staged progression:
 - Proactive capacity forecasting in place
 - Operational work planned and capacity-protected
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Predictive incident and SLA breach modeling in use
 - Auto-remediation for common failure classes implemented
 - Change governance dynamically tied to reliability posture

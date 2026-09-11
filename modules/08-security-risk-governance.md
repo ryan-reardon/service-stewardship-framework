@@ -176,7 +176,7 @@ Security & Risk Governance evolves through staged progression:
 - Vendor and third-party risk assessment formalized before adoption
 - Consistent, evidenced audit readiness maintained continuously
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Continuous threat modeling informing architecture decisions
 - Compliance evidence collection and control monitoring automated
 - Risk posture measured and forecasted based on trend analysis

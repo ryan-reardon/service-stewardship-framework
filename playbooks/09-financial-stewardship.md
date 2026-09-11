@@ -112,7 +112,7 @@ Level 3 → Optimized:
 - Tie business cases to cost impact for new initiatives
 - Improve cost attribution granularity
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Forecast cost under growth and contraction scenarios
 - Track and improve unit economics
 - Integrate financial posture into strategic roadmap planning

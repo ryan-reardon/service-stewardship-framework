@@ -113,7 +113,7 @@ Level 3 → Optimized:
 - Identify and track leading indicators
 - Ensure platform-agnostic instrumentation design
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Implement anomaly detection and predictive alerting
 - Feed observability data into forecasting models
 - Continuously measure and improve alert quality and coverage

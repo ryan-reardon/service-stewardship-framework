@@ -4,9 +4,9 @@ This assessment evaluates the maturity of Financial Stewardship within a technol
 
 The objective is cost discipline integrity, not budget compliance theater.
 
-Score conservatively.
-Require evidence.
-Default to the lower level when uncertain.
+Score conservatively.  
+Require evidence.  
+Default to the lower level when uncertain.  
 
 ---
 

@@ -110,7 +110,7 @@ Level 3 → Optimized:
 - Actively evaluate consolidation and rationalization opportunities
 - Negotiate cross-service trade-offs transparently
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Model portfolio-level trade-offs and optimize across services
 - Drive data-driven consolidation proactively
 - Anticipate and incorporate enterprise priority shifts early

@@ -175,7 +175,7 @@ Value Execution evolves through staged progression:
 - Outcome definitions required; post-delivery measurement in practice
 - Trade-offs documented and reviewed with stakeholders
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Delivery forecasting accurate and continuously updated
 - Scenario-based capacity planning in use
 - Outcome data continuously refines prioritization

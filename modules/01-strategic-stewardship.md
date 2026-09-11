@@ -1,13 +1,15 @@
 # Strategic Stewardship
 
+
+
 Strategic Stewardship ensures the service remains aligned to enterprise strategy and delivers measurable value throughout its lifecycle.
 
 It is the discipline of continuously validating:
 
-- Why the service exists?
-- Who it serves?
-- Is its investment profile justified? 
-- How should itevolve over time?
+- Does the service have a validated reason to exist and explicit strategic intent?
+- Are customer segments defined and use cases documented?
+- Is investment proportional to the value the service delivers?
+- Is lifecycle stage driving modernization, investment, and governance decisions?
 
 Strategic Stewardship transforms ownership from operational maintenance into intentional leadership.
 
@@ -178,7 +180,7 @@ Strategic Stewardship evolves through staged progression:
 - Quarterly strategic review summary published
 - Cost-to-value ratio trends tracked
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Demand forecasting integrated into roadmap planning
 - Strategic dashboards automated
 - Early-warning indicators for lifecycle transitions established

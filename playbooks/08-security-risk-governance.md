@@ -119,7 +119,7 @@ Level 3 → Optimized:
 - Formalize vendor and third-party risk assessment
 - Achieve consistent, evidenced audit readiness
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Run continuous threat modeling that informs architecture
 - Automate compliance evidence collection and control monitoring
 - Score risk predictively based on posture trends

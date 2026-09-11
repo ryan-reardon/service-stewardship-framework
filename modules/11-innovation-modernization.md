@@ -166,7 +166,7 @@ Innovation & Modernization evolves through staged progression:
 - Modernization progress tracked and reported to stakeholders regularly
 - Modernization priorities tied to architectural debt register and strategic goals
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Modernization needs predicted before they become urgent
 - Experimentation outcomes systematically feeding roadmap decisions
 - Platform evolution informed by industry and technology trend analysis

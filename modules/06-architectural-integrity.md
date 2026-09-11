@@ -171,7 +171,7 @@ Architectural Integrity evolves through staged progression:
 - Platforms and tools standardized; sprawl governed
 - Scaling and resilience posture reviews on established cadence
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Architecture health continuously measured using objective signals
 - Risk propagation modeled and blast radius actively reduced
 - Cost, performance, and resilience optimization continuous rather than episodic

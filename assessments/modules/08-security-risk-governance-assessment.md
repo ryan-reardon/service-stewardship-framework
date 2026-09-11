@@ -4,9 +4,9 @@ This assessment evaluates the maturity of Security & Risk Governance within a te
 
 The objective is security posture integrity, not compliance theater.
 
-Score conservatively.
-Require evidence.
-Default to the lower level when uncertain.
+Score conservatively.  
+Require evidence.  
+Default to the lower level when uncertain.  
 
 ---
 

@@ -166,7 +166,7 @@ Portfolio Alignment evolves through staged progression:
 - Cross-service trade-offs negotiated transparently with affected stakeholders
 - Portfolio risk log maintained with active remediation tracking
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Portfolio-level trade-offs modeled and optimized across services
 - Data-driven consolidation driven proactively
 - Enterprise priority shifts anticipated and incorporated early

@@ -1,6 +1,6 @@
 # Introduction
 
-## Enterprise Technology Service Stewardship Framework
+## The Service Stewardship Framework
 
 Technology services are no longer background infrastructure. They are the operational backbone of the enterprise and the vehicles through which strategy becomes reality. Every customer interaction, financial transaction, operational workflow, and strategic initiative ultimately depends on services that must be reliable, secure, adaptable, and economically sound.
 

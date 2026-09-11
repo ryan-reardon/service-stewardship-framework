@@ -115,7 +115,7 @@ Level 3 → Optimized:
 - Standardize platforms and tools; reduce and govern sprawl
 - Implement scaling and resilience posture reviews on established cadence
 
-Level 4 → Predictive & Autonomous:
+Level 4 → Proactive:
 - Continuously measure architecture health using objective signals
 - Model risk propagation and actively reduce blast radius
 - Treat complexity as a managed resource with explicit governance
