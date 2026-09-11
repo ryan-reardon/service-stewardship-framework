@@ -174,7 +174,7 @@ Engineering Excellence evolves through staged progression:
 - Routine operational tasks automated; toil ratio actively reduced
 - Quality and change outcomes measured and improvement targets set
 
-**Level 4: Predictive**
+**Level 4: Proactive**
 - Policy-as-code enforces compliance automatically before merge
 - Self-healing automation handles common failure classes
 - Predictive detection of quality and security regressions in place

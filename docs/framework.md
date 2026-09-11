@@ -1,6 +1,6 @@
-# Enterprise Technology Service Operating Framework
-**Version:** v1.4 
-**Last Updated:** March 2026  
+# The Service Stewardship Framework
+**Version:** v1.5  
+**Last Updated:** September 2026  
 
 This framework defines the capabilities required for a technology
 service to operate as a durable, scalable, secure, and value-generating
@@ -26,12 +26,14 @@ Each domain represents a measurable management system.
 
 ## How to Use This Framework
 
-The Service Stewardship Framework consists of four integrated components:
+The Service Stewardship Framework consists of five integrated components:
 
 1. The 12 Domain Definitions (this document)
-2. The Domain Modules (deep operational guides)
-3. The Maturity Model
-4. The Assessment Questionnaire
+2. The 12 Playbooks (one for each domain)
+3. The Domain Modules (deep operational guides)
+4. The Maturity Model
+5. The Assessment Questionnaire
+
 
 ### Recommended Usage Flow
 
@@ -55,27 +57,30 @@ measurable value, and evolves intentionally across its lifecycle.
 
 ## Core Responsibilities
 
--   Single accountable Service Executive for lifecycle health
--   Documented 3-5 year roadmap aligned to enterprise objectives
--   Defined customer segments and validated use cases
--   Quantified business outcomes (revenue, risk, efficiency)
--   Lifecycle stage classification (growth, scale, sustain, sunset)
--   Annual strategic review and recalibration
--   Explicit technical debt and modernization governance
+- Single accountable Service Executive for lifecycle health
+- Documented 3-5 year roadmap aligned to enterprise objectives
+- Defined customer segments and validated use cases
+- Quantified business outcomes (revenue, risk, efficiency)
+- Lifecycle stage classification (growth, scale, sustain, sunset)
+- Annual strategic review and recalibration
+- Explicit technical debt and modernization governance
 
 ## Key Metrics
 
--   \% roadmap aligned to strategic priorities
--   Customer satisfaction trend
--   Service adoption growth rate
--   Cost-to-value ratio
--   \% modernization vs maintenance spend
+- Adoption growth rate
+- Customer satisfaction trend
+- Roadmap execution percentage
+- Capacity allocation (run/grow/modernize distribution)
+- Cost-to-value ratio
+- Technical debt trend
+- Forecast vs actual delivery variance
+- Investment mix distribution
 
 **Domain Resources**
 
 - [Domain Module](../modules/01-strategic-stewardship.md)
-- [Assessment Module](../assessments/modules/01-strategic-stewardship.md)
-- [Operational Playbook](../playbooks//01-strategic-stewardship.md)
+- [Assessment Module](../assessments/modules/01-strategic-stewardship-assessment.md)
+- [Operational Playbook](../playbooks/01-strategic-stewardship.md)
 ------------------------------------------------------------------------
 
 # 2. Organizational Capability
@@ -84,25 +89,28 @@ Purpose: Ensure sustainable team structure, skills, and accountability.
 
 ## Core Responsibilities
 
--   Explicit RACI model
--   Skills inventory mapped to roadmap
--   Proactive skill gap management
--   Succession planning for critical roles
--   Role-based performance scorecards
--   Cross-functional collaboration model
+- Explicit RACI model
+- Skills inventory mapped to roadmap
+- Proactive skill gap management
+- Succession planning for critical roles
+- Role-based performance scorecards
+- Cross-functional collaboration model
 
 ## Key Metrics
 
--   Skills coverage ratio
--   Cross-training coverage %
--   Attrition rate
--   Employee engagement score
--   Succession coverage %
+- Capacity allocation ratio (operate / improve / modernize)
+- Single-threaded knowledge risk count
+- Cross-training coverage percentage
+- Role clarity survey index
+- Incident resolution dependency concentration
+- Attrition impact recovery time
+- Skill gap closure rate
+- Modernization velocity vs planned capacity
 
 **Domain Resources**
 
 - [Domain Module](../modules/02-organizational-capability.md)
-- [Assessment Module](../assessments/modules/02-organizational-capability.md)
+- [Assessment Module](../assessments/modules/02-organizational-capability-assessment.md)
 - [Operational Playbook](../playbooks/02-organizational-capability.md)
 ------------------------------------------------------------------------
 
@@ -112,24 +120,27 @@ Purpose: Deliver business value predictably and efficiently.
 
 ## Core Responsibilities
 
--   Measurable outcomes defined pre-execution
--   Prioritized backlog tied to business value
--   Flow metrics actively managed
--   Structured retrospectives with systemic fixes
--   Capacity forecast model
+- Measurable outcomes defined pre-execution
+- Prioritized backlog tied to business value
+- Flow metrics actively managed
+- Structured retrospectives with systemic fixes
+- Capacity forecast model
 
 ## Key Metrics
 
--   Delivery predictability
--   Lead time for change
--   Cycle time
--   Throughput
--   ROI realization rate
+- Lead time (idea to production)
+- Cycle time (in-progress to done)
+- Throughput (delivered items per sprint or month)
+- Delivery predictability (percentage of commitments met)
+- WIP and queue age health indicators
+- Escaped scope rate (changes after commitment)
+- Outcome realization rate (percentage of initiatives meeting success metrics)
+- Dependency risk indicators (open dependencies, overdue handoffs)
 
 **Domain Resources**
 
 - [Domain Module](../modules/03-value-execution.md)
-- [Assessment Module](../assessments/modules/03-value-execution.md)
+- [Assessment Module](../assessments/modules/03-value-execution-assessment.md)
 - [Operational Playbook](../playbooks/03-value-execution.md)
 
 
@@ -141,25 +152,27 @@ Purpose: Build secure, automated, maintainable systems.
 
 ## Core Responsibilities
 
--   Mandatory version control and peer review
--   CI/CD with quality gates (coverage, static analysis, security scans)
--   Infrastructure as Code enforcement
--   Automated deployments and testing
--   Secure SDLC adherence
+- Mandatory version control and peer review
+- CI/CD with quality gates (coverage, static analysis, security scans)
+- Infrastructure as Code enforcement
+- Automated deployments and testing
+- Secure SDLC adherence
 
 ## Key Metrics
 
--   Deployment frequency
--   Change failure rate
--   Code coverage %
--   Security scan pass rate
--   \% infrastructure as code
--   Automation coverage ratio
+- Deployment frequency
+- Change failure rate
+- Mean time to restore after a failed change
+- Code coverage and test reliability trends
+- Static analysis and security scan pass rate
+- Vulnerability backlog age distribution
+- Toil ratio and automation coverage ratio
+- PR review latency and pipeline bypass rate
 
 **Domain Resources**
 
 - [Domain Module](../modules/04-engineering-excellence.md)
-- [Assessment Module](../assessments/modules/04-engineering-excellence.md)
+- [Assessment Module](../assessments/modules/04-engineering-excellence-assessment.md)
 - [Operational Playbook](../playbooks/04-engineering-excellence.md)
 
 ------------------------------------------------------------------------
@@ -170,21 +183,24 @@ Purpose: Maintain availability and minimize operational risk.
 
 ## Core Responsibilities
 
--   Defined SLAs and OLAs
--   Error budgets enforced
--   Blameless incident postmortems
--   Change velocity tied to reliability posture
--   Capacity forecasting and stress testing
--   Automated remediation of recurring issues
+- Defined SLAs and OLAs
+- Error budgets enforced
+- Blameless incident postmortems
+- Change velocity tied to reliability posture
+- Capacity forecasting and stress testing
+- Automated remediation of recurring issues
 
 ## Key Metrics
 
--   SLA compliance %
--   MTTR
--   Incident frequency
--   Error budget burn rate
--   Change success rate
--   Capacity utilization %
+- SLA and SLO attainment and variance trends
+- Error budget remaining and burn rate
+- Incident frequency and severity distribution
+- Mean time to detect (MTTD) and mean time to restore (MTTR)
+- Change failure rate and rollback rate
+- Alert noise metrics: pages per incident and false positive rate
+- Toil ratio and automation coverage
+- Capacity utilization and headroom
+- Top recurring incident classes and recurrence rate
 
 **Domain Resources**
 
@@ -202,24 +218,27 @@ criteria.
 
 ## Core Responsibilities
 
--   Documented architecture and ADRs
--   Explicit trade-off documentation
--   Complexity minimization
--   Modular, loosely coupled systems
--   Scalability and resilience planning
+- Documented architecture and ADRs
+- Explicit trade-off documentation
+- Complexity minimization
+- Modular, loosely coupled systems
+- Scalability and resilience planning
 
 ## Key Metrics
 
--   Architectural debt index
--   System complexity score
--   Scalability headroom
--   Performance vs SLO targets
+- Architectural debt index and trend over time
+- Coupling hotspots identified through qualitative and quantitative signals
+- Service dependency risk indicators for critical upstream and downstream health
+- Performance vs SLOs and available scaling headroom
+- Change lead time attributable to architecture bottlenecks
+- Platform and tool sprawl indicators: number of runtimes, frameworks, and data stores
+- Incident blast radius indicators: scope of impact when failures occur
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/06-architectural-integrity.md)
+- [Assessment Module](../assessments/modules/06-architectural-integrity-assessment.md)
+- [Operational Playbook](../playbooks/06-architectural-integrity.md)
 
 
 ------------------------------------------------------------------------
@@ -230,25 +249,33 @@ Purpose: Deliver professional and predictable customer interaction.
 
 ## Core Responsibilities
 
--   Structured ticketing and escalation workflows
--   Defined response and resolution targets
--   Transparent communication standards
--   Knowledge base and training materials
--   Customer friction monitoring
+- Structured ticketing and escalation workflows
+- Defined response and resolution targets
+- Transparent communication standards
+- Knowledge base and training materials
+- Customer friction monitoring
 
 ## Key Metrics
 
--   First response time
--   Support MTTR
--   CSAT (support)
--   \% tickets within SLA
--   Repeat issue rate
+- CSAT and NPS trend over time
+- First response time by severity
+- Time to resolution by severity
+- Ticket backlog age distribution
+- Ticket root-cause distribution: recurring versus novel issues
+- Repeat issue rate: same root cause recurring across tickets
+- Escalation rate and escalation aging
+- Self-service deflection rate and knowledge base usage
+- Documentation coverage and freshness indicators
+- Incident and change communication timeliness
+- Feedback-to-roadmap conversion rate
+- Percentage of tickets with complete intake information
+
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/07-service-experience.md)
+- [Assessment Module](../assessments/modules/07-service-experience-assessment.md)
+- [Operational Playbook](../playbooks/07-service-experience.md)
 
 
 ------------------------------------------------------------------------
@@ -259,26 +286,28 @@ Purpose: Reduce and govern security and compliance risk.
 
 ## Core Responsibilities
 
--   Comprehensive dependency inventory
--   Patch cadence enforcement
--   Continuous vulnerability scanning
--   Compliance documentation automation
--   Supply chain surface minimization
--   Segregation of duties enforcement
+- Comprehensive dependency inventory
+- Patch cadence enforcement
+- Continuous vulnerability scanning
+- Compliance documentation automation
+- Supply chain surface minimization
+- Segregation of duties enforcement
 
 ## Key Metrics
 
--   Patch compliance %
--   Critical vulnerability exposure duration
--   Open high-severity findings \> SLA
--   Compliance audit findings
--   \% automated compliance evidence
+- Open vulnerabilities by severity and age
+- Remediation SLA compliance rate by severity tier
+- Access review completion rate
+- Risk register: open items by severity, overdue remediations, and closure trend
+- Compliance control coverage and evidence completeness
+- Security incidents: count, severity, and time to contain
+- Vendor and third-party risk assessments completed versus pending
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/08-security-risk-governance.md)
+- [Assessment Module](../assessments/modules/08-security-risk-governance-assessment.md)
+- [Operational Playbook](../playbooks/08-security-risk-governance.md)
 
 
 ------------------------------------------------------------------------
@@ -289,30 +318,30 @@ Purpose: Optimize total cost of ownership relative to delivered value.
 
 ## Core Responsibilities
 
--   Full TCO model (infrastructure, labor, licensing, compliance)
--   Cost per service unit tracking
--   Run vs grow vs transform spend analysis
--   Capacity-based cost forecasting
--   Scenario modeling (growth, stress, decline)
--   Infrastructure rightsizing and vendor optimization
--   Lifecycle-aligned financial governance
+- Full TCO model (infrastructure, labor, licensing, compliance)
+- Cost per service unit tracking
+- Run vs grow vs transform spend analysis
+- Capacity-based cost forecasting
+- Scenario modeling (growth, stress, decline)
+- Infrastructure rightsizing and vendor optimization
+- Lifecycle-aligned financial governance
 
 ## Key Metrics
 
--   Cost per service unit
--   Total cost of ownership trend
--   \% run vs grow vs transform spend
--   Infrastructure utilization %
--   Budget variance %
--   Forecast accuracy %
--   Cost-to-value ratio
--   Automation ROI
+- TCO trend, total and by category
+- Budget versus actual variance with documented explanations
+- Cost-to-value ratio trend
+- Vendor and license utilization rate
+- Cost optimization savings realized, cumulative
+- Cost per unit where applicable: per transaction, user, or request
+- Upcoming contract renewals and associated risk flags
+
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/09-financial-stewardship.md)
+- [Assessment Module](../assessments/modules/09-financial-stewardship-assessment.md)
+- [Operational Playbook](../playbooks/09-financial-stewardship.md)
 
 
 ------------------------------------------------------------------------
@@ -324,28 +353,28 @@ insight.
 
 ## Core Responsibilities
 
--   Unified logs, metrics, and traces
--   Standardized tagging and telemetry schema
--   Business KPI alignment with technical metrics
--   Alert governance and rationalization
--   Capacity and SLA breach forecasting
--   Executive dashboards with trend analysis
+- Unified logs, metrics, and traces
+- Standardized tagging and telemetry schema
+- Business KPI alignment with technical metrics
+- Alert governance and rationalization
+- Capacity and SLA breach forecasting
+- Executive dashboards with trend analysis
 
 ## Key Metrics
 
--   Monitoring coverage %
--   \% services with distributed tracing
--   Alert precision (false positive rate)
--   Mean time to detect (MTTD)
--   Forecast accuracy %
--   SLA breach prediction accuracy
--   \% roadmap decisions informed by telemetry
+- Instrumentation coverage percentage across critical paths
+- Alert volume and actionability rate
+- Alert noise ratio: false positive rate
+- Synthetic monitoring pass rate and detected issues count
+- Dashboard usage and adoption by audience
+- Leading indicator trend summary
+- Mean time to detect trend over time
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/10-observability-intelligence.md)
+- [Assessment Module](../assessments/modules/10-observability-intelligence-assessment.md)
+- [Operational Playbook](../playbooks/10-observability-intelligence.md)
 
 ------------------------------------------------------------------------
 
@@ -355,28 +384,27 @@ Purpose: Sustain long-term viability and prevent stagnation.
 
 ## Core Responsibilities
 
--   Categorized technical debt register
--   Dedicated modernization capacity allocation
--   Structured experimentation framework
--   Industry benchmarking reviews
--   Legacy system retirement governance
--   Obsolescence risk monitoring
+- Categorized technical debt register
+- Dedicated modernization capacity allocation
+- Structured experimentation framework
+- Industry benchmarking reviews
+- Legacy system retirement governance
+- Obsolescence risk monitoring
 
 ## Key Metrics
 
--   Technical debt backlog trend
--   \% capacity allocated to modernization
--   Legacy footprint %
--   Mean age of critical components
--   Experiment-to-production rate
--   Cost reduction via modernization
--   Reliability improvement from modernization
+- Modernization capacity allocated versus planned
+- Legacy and aging component count and risk trend over time
+- Modernization backlog age and throughput
+- Experimentation and proof-of-concept count with outcomes: adopted, rejected, or ongoing
+- Technology radar changes per quarter
+- Modernization progress versus roadmap commitments
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/11-innovation-modernization.md)
+- [Assessment Module](../assessments/modules/11-innovation-modernization-assessment.md)
+- [Operational Playbook](../playbooks/11-innovation-modernization.md)
 
 ------------------------------------------------------------------------
 
@@ -386,43 +414,43 @@ Purpose: Ensure coherence within the enterprise ecosystem.
 
 ## Core Responsibilities
 
--   Enterprise architecture conformance tracking
--   Dependency and integration mapping
--   Cross-service SLA governance
--   Redundancy avoidance and capability reuse promotion
--   Systemic risk propagation modeling
--   Portfolio-level reporting contribution
+- Enterprise architecture conformance tracking
+- Dependency and integration mapping
+- Cross-service SLA governance
+- Redundancy avoidance and capability reuse promotion
+- Systemic risk propagation modeling
+- Portfolio-level reporting contribution
 
 ## Key Metrics
 
--   Duplicate capability ratio
--   Reuse index %
--   Cross-service incident impact rate
--   Enterprise architecture compliance %
--   Cross-service SLA attainment %
--   Systemic risk exposure index
+- Dependency map accuracy and freshness
+- Shared capability reuse rate versus duplication instances
+- Portfolio risk log: open items by severity
+- Cross-service trade-off decisions logged and resolved
+- Consolidation and rationalization opportunities identified versus acted on
+- Alignment status against enterprise priorities
 
 **Domain Resources**
 
-- [Domain Module]()
-- [Assessment Module]()
-- [Operational Playbook]()
+- [Domain Module](../modules/12-portfolio-alignment.md)
+- [Assessment Module](../assessments/modules/12-portfolio-alignment-assessment.md)
+- [Operational Playbook](../playbooks/12-portfolio-alignment.md)
 
 
 ## Domain Interdependence
 
 These domains operate as an integrated system:
 
- - Strategic Stewardship sets direction.
- - Organizational Capability enables execution.
- - Value Execution delivers outcomes.
- - Engineering Excellence builds quality.
- - Operational Reliability sustains availability.
- - Architectural Integrity ensures durability.
- - Security & Risk Governance protects.
- - Financial Stewardship sustains investment.
- - Observability & Intelligence enables predictive maturity.
- - Innovation & Modernization prevents stagnation.
- - Service Experience builds customer trust.
- - Portfolio Alignment prevents fragmentation.
+ 1. Strategic Stewardship sets direction.
+ 2. Organizational Capability enables execution.
+ 3. Value Execution delivers outcomes.
+ 4. Engineering Excellence builds quality.
+ 5. Operational Reliability sustains availability.
+ 6. Architectural Integrity ensures durability.
+ 7. Service Experience builds customer trust.
+ 8. Security & Risk Governance protects.
+ 9. Financial Stewardship sustains investment.
+ 10. Observability & Intelligence enables predictive maturity.
+ 11. Innovation & Modernization prevents stagnation.
+ 12. Portfolio Alignment prevents fragmentation.
  
